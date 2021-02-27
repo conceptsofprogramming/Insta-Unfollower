@@ -2,7 +2,7 @@
 
 - This is Project based on people who followed by you but not them.
 
-# ------->  This will automatic login and unfollow them!  <--------
+# ---->  This will automatic login and unfollow them!  <----
 
 - This script of python take user login details as input.
 
